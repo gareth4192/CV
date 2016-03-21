@@ -21,10 +21,12 @@ I am a hard working, enthusiastic junior developer seeking a challenging role th
 
 ####Makers Academy (2015 - 2016)
 
-TDD, SOLID, MVC, OOP
-Agile Methodologies
-Ruby, Rails, Sinatra, Javascript, AngularJS, Ionic, HTML, CSS
-RSpec, Capybara, Jasmine, Protractor, Karma
+* TDD, SOLID, MVC, OOP
+* Agile Methodologies
+* Ruby, Rails, Sinatra, Javascript, AngularJS, Ionic, HTML, CSS
+* RSpec, Capybara, Jasmine, Protractor, Karma
+* Teamwork and pairing
+* Versatility
 
 #### University of Hertfordshire (2012 - 2015)
 
