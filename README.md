@@ -4,23 +4,16 @@ About me
 
 ## Skills
 
-#### Table of skills
 
-
-#### Ruby
-
-
-#### Rails etc
-
-## Projects 
+## Projects
 
 |                                **Name**                                |                                                              **Description**                                                              |                                **Languages**                                |             **Testing**             |
 |:----------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:-----------------------------------:|
-|            [Politify](https://github.com/gareth4192/politify)           | App which provides full info from MPs based on any  U.K. postcode, customized with a google search engine, twitter api and mail service.  |                  JavaScript, AngularJS, Firebase, HTML, CSS                 |      Jasmine, Karma, Protractor     |
-|    P2    | description                                                    | lang  |     test     |
-|        p3        | description                                                                                     |                         lang                         | test |
-| P4 | description                                                                                  |                           lang                           |          test           |
-|    P5    | description                                                    | lang  |     test     |
+|            [Politify](https://github.com/gareth4192/politify)           | A web application that allows users to find information about their local MP. Uses google custom search, twitter widget creation, mail service and api calls to retrieve MPs information  |                  JavaScript, AngularJS, Firebase, HTML, CSS                 |      Jasmine, Karma, Protractor     |
+|    [Instagram Clone](https://github.com/gareth4192/instagram-challenge)    | A clone of instagram created using ruby on rails.                                                    | Ruby on Rails, Ruby, HTML, CSS, Bootstrap  |     Capybara, Rspec     |
+|        [HoliDice](https://github.com/gareth4192/HoliDice)        | A random trip generator that provides a user flights to a random destination.                                                                                     |                         JavaScript, AngularJS, HTML, CSS                        | Karma, Protractor |
+| [Chitter](https://github.com/gareth4192/Chitter2) | A twitter clone made using sinatra                                                                                  |                           Sinatra, Ruby, HTML, CSS                          |          Rspec, Capybara           |
+|    [Thermostat](https://github.com/gareth4192/Thermostat)   | Web application that simulates the functionality of a Thermostat and provides weather of user specified destinations via api calls.                                                    | JavaScript, JQuery, HTML, CSS  |     Jasmine     |
 
 
 ## Education
@@ -32,4 +25,10 @@ About me
 
 ## Work
 
-## Technologies 
+### CGM Developments UK Ltd
+#### Administration assistant
+During the summers whilst at university I worked as an admin assistant at a property development company. My responsibilities included; maintaining systems used for expenditure monitoring, liaising with contractors and assisting with calculating the financial viability of projects. These responsibilities allowed me to develop not only my technical skills but also my communication and self-management skills.
+
+### TS Electricals
+#### Electrical Installation
+During the year between finishing college and starting university I worked as an electricians assistant where my responsibilities were to assist an electrician in all aspects on electrical installation.
