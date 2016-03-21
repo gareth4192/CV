@@ -1,6 +1,7 @@
 # Gareth McKenna
 
-About me
+I am a hard working, enthusiastic junior developer seeking a challenging role that will make best use of my skills and allow me to develop them further.
+
 
 ## Skills
 
@@ -18,9 +19,16 @@ About me
 
 ## Education
 
-#### University of Hertfordshire - 2012 - 2015
+####Makers Academy (2015 - 2016)
 
-- First Class Honours
+TDD, SOLID, MVC, OOP
+Agile Methodologies
+Ruby, Rails, Sinatra, Javascript, AngularJS, Ionic, HTML, CSS
+RSpec, Capybara, Jasmine, Protractor, Karma
+
+#### University of Hertfordshire (2012 - 2015)
+
+First Class Honours
 
 
 ## Work
