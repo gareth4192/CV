@@ -65,5 +65,5 @@ During the year between finishing college and starting university I worked as an
 
 ## Other Interests
 
-Keen golfer (12 Handicap)
-Travel
+* Keen golfer (12 Handicap)
+* Travel
