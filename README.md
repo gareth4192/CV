@@ -44,6 +44,7 @@ At makers academy i worked with new topics weekly, this taught me how to learn q
 * Versatility
 
 #### University of Hertfordshire (2012 - 2015)
+Computer and Networks Technology
 School of engineering and technology
 First Class Honours
 
